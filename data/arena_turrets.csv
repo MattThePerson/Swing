@@ -1,0 +1,2 @@
+type,x,y,orientation,cooldown,range,minAng,maxAng
+0,850,600,3,30,1000,-4.3,1.1
