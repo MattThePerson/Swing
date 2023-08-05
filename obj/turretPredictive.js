@@ -21,7 +21,7 @@ function TurretPredictive(type, x, y, orientation, cooldown, range, minAng, maxA
     this.maxAng = maxAng;
 
     this.targetAquired = false;
-    this.bulletSpeed = 15;
+    this.bulletSpeed = 25;
     this.fireRange = 0.2;
     this.fireAng;
     this.fireTimerAmount = 3;
