@@ -315,7 +315,7 @@ function showTitleCard() {
     fill(titleColor);
     stroke(titleColor);
 
-    var title = "Swing!!";
+    var title = "Swing!";
     text(title, width / 2 - textWidth(title) / 2, height / 2 - 50);
 
 
@@ -334,5 +334,4 @@ function showTitleCard() {
             showingTitle = false;
         }
     }
-
 }
