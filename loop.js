@@ -12,7 +12,7 @@ function homeLoop() {
     titleColor = 55;
     stroke(titleColor);
     fill(titleColor);
-    var title = "Swing!!";
+    var title = "Swing!!!";
     text(title, titleTextX = width / 2 - textWidth(title) / 2, height*0.35-50);
 
     menuButtons.update(mouseX,mouseY);
